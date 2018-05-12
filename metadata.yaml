@@ -1,0 +1,28 @@
+_repo: Harper-s-Young-People-September-28-1880An-Illustrated-Weekly_29154
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: Harper's Young People
+gutenberg_issued: '2009-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29154'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s periodicals, American'
+- !lcc 'AP'
+title: 'Harper''s Young People, September 28, 1880
+
+  An Illustrated Weekly'
+url: http://www.gutenberg.org/ebooks/29154
